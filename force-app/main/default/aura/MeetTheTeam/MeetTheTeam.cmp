@@ -1,0 +1,15 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+
+    <aura:handler name="formSubmit" value="{!this}"  event="c:FormSubmitEvent" action="{!c.onFormSubmit}"/>  
+
+    <lightning:card title="Find a teammate">
+        <!-- <c:TeamMateSearchForm aura:id="teamMateSearch" /> -->                
+    </lightning:card>
+    
+    <lightning:card title="Teammate detail" >
+        <!-- This component will include a public search method -->
+        <!-- Uncomment on the integration step -->
+        <!--  <c:TeamMateDetails aura:id="teamMateSearchResults" /> -->
+    </lightning:card>        
+
+</aura:component>	

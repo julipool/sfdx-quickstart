@@ -1,0 +1,58 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Teammate__c",
+                "referenceId": "Teammate__cRef1"
+            },
+            "Name": "Appy",
+            "Description__c": "<h2>Your guide to the Partner Ecosystem</h2><p><span style=\"font-family: SalesforceSansBold, Helvetica, Arial, sans-serif;\">Favorite Badge</span>: <a href=\"https://trailhead.salesforce.com/en/modules/salesforce_advantange_ecosystem\" target=\"_blank\" style=\"color: rgb(33, 92, 160);\">Salesforce Ecosystem</a></p><p>Appy is the guide that everyone wishes they could have. Since she knows a lot about all things Salesforce, she leads the way to help you navigate the AppExchange ecosystem to solve your business challenge. Appy is also a connector. If she doesn’t know the answer, she uses her extensive network to connect the right people together to solve your problems. No challenge is too great, so just ask Appy. She is ready to help.</p><p><br></p>",
+            "Picture__c": "https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/careers/culture-card-trailblaze-appy.png"
+        },
+        {
+            "attributes": {
+                "type": "Teammate__c",
+                "referenceId": "Teammate__cRef2"
+            },
+            "Name": "Einstein",
+            "Description__c": "<h2>Resident genius and future seeker</h2><p><span style=\"font-family: SalesforceSansBold, Helvetica, Arial, sans-serif;\">Favorite Badge</span>: <a href=\"https://trailhead.salesforce.com/en/modules/ai_basics/units/ai_basics_getstarted\" target=\"_blank\" style=\"color: rgb(33, 92, 160);\">Artificial Intelligence Basics</a></p><p>Einstein is everyone’s data scientist. Super quick on his feet, Einstein is a problem solver and helps you learn more about your customers. With his analytical mind, it’s no surprise that Einstein has a passion for learning new things, always expanding on the knowledge he’s already accumulated—it even helps him predict the future. Brilliant and unselfish, Einstein is always ready to help you become more knowledgeable and innovative.</p>",
+            "Picture__c": "https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/careers/culture-card-trailblaze-einstein.png"
+        },
+        {
+            "attributes": {
+                "type": "Teammate__c",
+                "referenceId": "Teammate__cRef3"
+            },
+            "Name": "Codey",
+            "Description__c": "<h2>Inspiring builders and makers everywhere</h2><p><span style=\"font-family: SalesforceSansBold, Helvetica, Arial, sans-serif;\">Favorite Badge</span>: <a href=\"https://developer.salesforce.com/blogs/developer-relations/2015/04/introducing-catter-connect-cat-like-never.html\" target=\"_blank\" style=\"color: rgb(33, 92, 160);\">Catter</a> (Archived)</p><p>It’s hard not to notice Codey—he’s the bear tackling projects and getting his paws dirty, all while having a great time. Codey is a maker and a builder. Whether it’s coding an app on Salesforce, or pouring lattes as a ‘Bearista’, Codey isn’t afraid to get noticed or dive in to get things done. While he may be fearless in the face of challenges (and helps you be fearless too!), Codey isn’t a ferocious bear, and likes giving out bear hugs.</p><p> </p>",
+            "Picture__c": "https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/careers/culture-card-trailblaze-codey.png"
+        },
+        {
+            "attributes": {
+                "type": "Teammate__c",
+                "referenceId": "Teammate__cRef4"
+            },
+            "Name": "Astro",
+            "Description__c": "<h2>Your guide to Salesforce</h2><p><span style=\"font-family: SalesforceSansBold, Helvetica, Arial, sans-serif;\">Favorite Badge</span>: <a href=\"https://developer.salesforce.com/blogs/developer-relations/2016/03/wheres-astro.html\" target=\"_blank\" style=\"color: rgb(33, 92, 160);\">Where’s Astro</a> (Archived)</p><p>Astro is your friendly guide to everything at Salesforce and helps you become the best at anything you want to do. Warm and welcoming, they encourage the Salesforce community to achieve their goals through trying new things, asking questions, and having fun. Curious and always wanting to learn, they love traveling, making new friends, and are always up for an <a href=\"https://trailhead.salesforce.com/\" target=\"_blank\" style=\"color: rgb(33, 92, 160);\">adventure on the trail</a>.</p><p><br></p>",
+            "Picture__c": "https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/careers/culture-card-trailblaze-astro.png"
+        },
+        {
+            "attributes": {
+                "type": "Teammate__c",
+                "referenceId": "Teammate__cRef5"
+            },
+            "Name": "Cloudy",
+            "Description__c": "<h2>Keeping everyone together and on track</h2><p><span style=\"font-family: SalesforceSansBold, Helvetica, Arial, sans-serif;\">Favorite Badge</span>: <a href=\"https://trailhead.salesforce.com/modules/business_process_automation\" target=\"_blank\" style=\"color: rgb(33, 92, 160);\">Process Automation</a></p><p>Tech-savvy and smart, Cloudy builds innovative apps with the cloud. True to her name, she is always at the center of the action. Her confidence and steadfastness are second only to her in-depth knowledge of everything cloud-related. Cloudy brings out the best in everyone and encourages you to tap into your own unlimited potential.</p><p><br></p>",
+            "Picture__c": "https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/careers/culture-card-trailblaze-cloudy.png"
+        },
+        {
+            "attributes": {
+                "type": "Teammate__c",
+                "referenceId": "Teammate__cRef6"
+            },
+            "Name": "Blaze",
+            "Description__c": "<h3><span style=\"color: rgb(34, 34, 34);\">Your faithful, trusted companion.</span></h3><p>Faithful, nurturing, intelligent, and trustworthy, Blaze is a born leader who will be at your side every step of your journey. Her mission is to give customers deeper guidance and inspiration to help them realize their dreams and reach their full potential. She was born in the wilderness, so she has keen instincts and intuition about safely navigating the wild.</p>",
+            "Picture__c": "https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/careers/culture-card-trailblaze-blaze.png"
+        }
+    ]
+}

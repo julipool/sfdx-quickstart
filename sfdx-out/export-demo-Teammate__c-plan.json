@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Teammate__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export-demo-Teammate__cs.json"
+        ]
+    }
+]

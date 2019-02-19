@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#75A754</headerColor>
+        <logo>team</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <label>Join the team!</label>
+    <navType>Standard</navType>
+    <tabs>Meet_the_team</tabs>
+    <tabs>Teammate__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Join_the_team_UtilityBar</utilityBar>
+</CustomApplication>
